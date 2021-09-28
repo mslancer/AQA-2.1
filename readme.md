@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/7ckp3igl0nqk0n7i/branch/master?svg=true)](https://ci.appveyor.com/project/mslancer/aqa-2-1/branch/master)
